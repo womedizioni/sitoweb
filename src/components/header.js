@@ -13,7 +13,7 @@ const Header = () => {
           <li><Link to="/lagenda" activeClassName={headerStyles.active}>Agenda</Link></li>
           <li><Link to="laperiodico" activeClassName={headerStyles.active}>l'aperiodico</Link></li>
           <li><Link to="labottega" activeClassName={headerStyles.active}>la bottega</Link></li>
-          <li><Link to="contatti" activeClassName={headerStyles.active}>contatti</Link></li>
+          <li> <Link to="contatti" activeClassName={headerStyles.active}>contatti</Link></li>
         </ul>
       </nav>
     </header>

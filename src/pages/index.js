@@ -5,8 +5,9 @@ const IndexPage = () => {
   return (
     <div>
       <Header/>
-      <h1>Home di Wom Edizioni</h1>
+      <h1>Home di Wom Edizioni!</h1>
     </div>
+
   )
 };
 

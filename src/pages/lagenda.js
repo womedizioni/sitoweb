@@ -1,12 +1,12 @@
 import React from "react";
 import Layout from "./layout";
 
-const IndexPage = () => {
+const AgendaPage = () => {
   return (
     <Layout>
-      <h1>Home</h1>
+      <h1>Agenda</h1>
     </Layout>
   )
 };
 
-export default IndexPage;
+export default AgendaPage;
